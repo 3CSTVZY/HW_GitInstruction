@@ -17,3 +17,7 @@ _git status – получить информацию от git о его тек�
 _git checkout master – вернуться к актуальному состоянию и продолжить работу_
 
 _git diff – увидеть разницу между текущим файлом и закоммиченным файлом_
+
+## Description
+
+Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development
