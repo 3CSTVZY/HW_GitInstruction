@@ -31,3 +31,7 @@ Linus Torvalds wanted a distributed system that he could use like BitKeeper, but
 - Take Concurrent Versions System (CVS) as an example of what not to do; if in doubt, make the exact opposite decision.
 - Support a distributed, BitKeeper-like workflow.
 - Include very strong safeguards against corruption, either accidental or malicious.
+
+## Data structure
+
+![image](https://en.wikipedia.org/wiki/Git#/media/File:Git_operations.svg)
