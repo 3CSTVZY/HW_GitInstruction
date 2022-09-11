@@ -34,7 +34,7 @@ Linus Torvalds wanted a distributed system that he could use like BitKeeper, but
 
 ## Data structure
 
-![image](https://en.wikipedia.org/wiki/Git#/media/File:Git_operations.svg)
+![image](gitstructure.png)
 
 ## Git for everyone
 
