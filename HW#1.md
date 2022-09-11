@@ -39,3 +39,23 @@ Linus Torvalds wanted a distributed system that he could use like BitKeeper, but
 ## Git for everyone
 
 https://github.com/topics/social-network
+
+# Links
+
+## Tutorials
+
+- Interactive tour of Git How To
+- Pro Git tutorial
+
+## Official sites
+
+- Git home page
+- Git page on kernel.org
+
+## Interview
+
+- Linus Torvalds on git
+- Ten Years of Git: An Interview with the Founder - Linus Torvalds
+- Linus Torvalds on Git - Linus Torvalds talk about git and other version control systems
+- Randal Schwartz on Git
+- Contributing with Git
