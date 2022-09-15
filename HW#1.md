@@ -80,3 +80,7 @@ https://github.com/topics/social-network
 - Linus Torvalds on Git - Linus Torvalds talk about git and other version control systems
 - Randal Schwartz on Git
 - Contributing with Git
+
+## P.S.
+
+_This is my fist Git project_
