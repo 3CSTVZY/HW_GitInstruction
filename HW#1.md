@@ -18,6 +18,16 @@ _git checkout master – вернуться к актуальному состо
 
 _git diff – увидеть разницу между текущим файлом и закоммиченным файлом_
 
+## Main commands
+
+_git clone - позволяет склонировать внешний репозиторий на наш ПК_
+
+_git pull - команда позволяет скачать все из текущего репозитория и автоматически
+сделать merge с нашей версией_
+
+_git push - эта команда позволяет отправить нашу версию репозитория на внешний
+репозиторий_
+
 ## Description
 
 Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development
